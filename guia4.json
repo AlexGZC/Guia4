@@ -1,26 +1,29 @@
 [
     {
-        "name": "John Doe",
+        "id": "0",
+        "ciudad": "El Majahual",
         "latlng": [
-            62.457434,
-            17.349869
+            13.4899124,
+            -89.3834716
         ],
-        "population": "123"
+        "habitantes": "123"
     },
     {
-        "name": "Jane Doe",
+        "id": "1",
+        "ciudad": "Costa del sol",
         "latlng": [
-            62.455102,
-            17.345599
+            13.3235359,
+            -88.9570603
         ],
-        "population": "132"
+        "habitantes": "111"
     },
     {
-        "name": "Prueba",
+        "id": "2",
+        "ciudad": "El Cuco",
         "latlng": [
-            62.458287,
-            17.356306
+            13.1724864,
+            -88.1066122
         ],
-        "population": "123"
+        "habitantes": "123"
     }
 ] 
