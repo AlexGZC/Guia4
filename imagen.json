@@ -3,9 +3,8 @@
     "id":2,
     "placeName":"Quebrada la mascota",
     "images":[
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/San_vicente_els.jpg/250px-San_vicente_els.jpg",
-      "http://www.goldservice.com.sv/images/chinchontepec1.jpg",
-      "http://byt.wpengine.netdna-cdn.com/wp-content/uploads/2014/01/San-Vicente_LARGE.jpg"
+      "https://i.ytimg.com/vi/pGryCLo1NkU/hqdefault.jpg",
+      "https://s-media-cache-ak0.pinimg.com/564x/38/4f/9d/384f9d765348b16dfd7ae1801baa75f7.jpg"
     ],
     "peligrosidad": 2,
     "municipio": "San Salvador"
@@ -14,8 +13,8 @@
     "id":3,
     "placeName":"Quebrada el Piro",
     "images":[
-    "http://elsalvadorenelmundo.com/que-hacer/IMG/nota/izalco2222.jpg",
-    "http://www.mfaucher.com/files/ElSalvador12/675dpi/DSC_9736.jpg"
+    "https://i.ytimg.com/vi/ptj08FLkV7s/hqdefault.jpg",
+    "http://www.antiguocuscatlan.gob.sv/uploads/922977_458184127595696_1989194433_n-295x295.jpg"
     ],
         "peligrosidad": 2,
     "municipio": "La Libertad"
@@ -24,7 +23,7 @@
     "id":4,
     "placeName":"Comunidad Sitio Cenícero",
     "images":[
-    "http://i1300.photobucket.com/albums/ag97/SkyAlx/11330016_10153293360127412_1863436723294721974_n_zpsrnx0ivdi.png"
+    "https://s-media-cache-ak0.pinimg.com/564x/38/4f/9d/384f9d765348b16dfd7ae1801baa75f7.jpg"
     ],
         "peligrosidad": 2,
     "municipio": "Cuscatlan"
