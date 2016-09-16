@@ -5,7 +5,8 @@
         {
           "placeId":2,
           "placeName":"Quebradala mascota",
-          "latlng":"13.6921067,-89.2290888"
+          "latitude":13.6921067
+          "longitude": -89.2290888
         },
         {
           "placeId":3,
